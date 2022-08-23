@@ -4,8 +4,6 @@
 - 📫 How to reach me
         
         Telegram: @JackLumers | https://t.me/JackLumers
-        
-        Mail: kailneedko@gmail.com
 
 <!---
 JackLumers/JackLumers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
