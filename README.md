@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JackLumers
 - 👀 I’m interested in Game Development.
-- 🌱 I’m currently learning Unity, C#
 - 📫 How to reach me
         
         Telegram: @JackLumers | https://t.me/JackLumers
