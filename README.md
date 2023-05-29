@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ilyas Kharisov
+- 👋 Hi, I’m Ilyas Kharisov aka @JackLumers
 - 👀 I’m interested in Game Development.
 - 📫 How to reach me
         
