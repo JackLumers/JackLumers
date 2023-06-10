@@ -5,7 +5,7 @@ But I have some test task projects that I made for my employment opportunities.
 
 For example: 
 * [Card Game Sample](https://github.com/JackLumers/Card-Game-Sample)
-* [Local Multiplayer Battle Sample](https://github.com/JackLumers/MultiplayerBattleSample)
+* [Local Multiplayer Battle Sample](https://github.com/JackLumers/Multiplayer-Battle-Sample)
 
 ## 📫 How to reach me
         
