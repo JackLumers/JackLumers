@@ -1,4 +1,4 @@
-## Hi, I’m Ilyas Kharisov, a game programmer.
+## Hi. I’m Ilyas Kharisov, a game programmer.
 
 There is no any fancy open source games repos at the moment. 
 But I have some test task projects that I made for my employment opportunities.
